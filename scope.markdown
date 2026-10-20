@@ -5,7 +5,6 @@ permalink: /scope/
 nav_order: 4
 ---
 
-
 <span style="font-size:20px;"> 
 The workshop welcomes contributions in all topics related to geographic information extraction from texts, focused (but not limited) to: 
 
@@ -17,6 +16,8 @@ The workshop welcomes contributions in all topics related to geographic informat
 
 * <span style="font-size:20px;"> Geographic information extraction for underrepresented languages, regions, and text types
 
+* <span style="font-size:20px;"> Geographic biases, robustness, uncertainty, explainability, and reliability of GeoExT systems
+
 * <span style="font-size:20px;"> Methods for interpreting historical and ancient toponyms in interdisciplinary contexts
 
 * <span style="font-size:20px;"> Techniques for handling complex location descriptions in text
@@ -27,8 +28,12 @@ The workshop welcomes contributions in all topics related to geographic informat
 
 * <span style="font-size:20px;"> Developing high-quality gazetteers for underrepresented regions
 
-* <span style="font-size:20px;"> Development and annotation of datasets tailored to specific application requirements
+* <span style="font-size:20px;"> Development and annotation of datasets designed for the requirements of different applications
 
-* <span style="font-size:20px;"> Novel metrics to evaluate geoparsing results with special emphasis on complex geometries
+* <span style="font-size:20px;"> Evaluation methodologies, benchmarks, reproducibility, error analysis, and uncertainty quantification for GeoExT
 
 * <span style="font-size:20px;"> Novel applications showcasing the use of geographic information embedded in texts
+
+* <span style="font-size:20px;"> LLMs, vision-language models and retrieval-augmented approaches for geographic information extraction, including their efficiency, reliability and geographic biases
+
+* <span style="font-size:20px;"> Integration of extracted geographic information into information retrieval systems, including geographic search, spatial indexing, location-aware ranking, and geo-aware retrieval-augmented generation.
