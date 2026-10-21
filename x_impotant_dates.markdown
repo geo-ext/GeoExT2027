@@ -17,4 +17,4 @@ nav_order: 6
 
 <span style="font-size:20px;"><strong>Conference day</strong>: March 21 to 25, 2027
 
-<span style="font-size:20px;"><strong>Workshop day</strong>: April 2, 2026
+<span style="font-size:20px;"><strong>Workshop day</strong>: tbd
