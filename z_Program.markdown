@@ -4,9 +4,8 @@ title: Program
 permalink: /program/
 nav_order: 9
 ---
-/*
+<!--
 <style>
- scope styles to this page only 
 .program { font-family: Arial, sans-serif; }
 .program h2 { margin-top: 0; }
 .program .header-info {
@@ -150,7 +149,7 @@ nav_order: 9
           </ul>
         </td>
       </tr>
-*/
+-->
       <tr>
         <td>16:30 - 16:45</td>
         <td><strong>Closing</strong></td>
