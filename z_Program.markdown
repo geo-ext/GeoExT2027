@@ -149,7 +149,7 @@ nav_order: 9
           </ul>
         </td>
       </tr>
--->
+
       <tr>
         <td>16:30 - 16:45</td>
         <td><strong>Closing</strong></td>
@@ -157,3 +157,4 @@ nav_order: 9
     </tbody>
   </table>
 </div>
+-->
