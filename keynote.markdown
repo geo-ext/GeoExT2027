@@ -5,7 +5,7 @@ permalink: /keynote/
 nav_order: 3
 ---
 
-  <!--
+{%
 <h2 align="center">
   <a href="https://profiles.cardiff.ac.uk/staff/jonescb2">
     Prof. Dr. Christopher Jones
@@ -19,4 +19,4 @@ nav_order: 3
 
 <span style="font-size:20px;"> <strong> Short Bio:</strong>   Chris Jones is in the School of Computer Science and Informatics at Cardiff University. His research interests cover aspects of geographical information retrieval relating to georeferencing, information extraction, and interpretation and generation of geo-spatial language. Current applications focus on ecology and on emergency response. Previous research has included map generalisation and multi-scale spatial data access methods, spatio-textual indexing, 3D modelling of buildings and of geological phenomena, and environmental change detection. Early cartographic research on map labelling led to the development of the Maplex map label engine. 
 
--->
+%}
