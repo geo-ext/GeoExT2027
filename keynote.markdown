@@ -4,8 +4,7 @@ title: Keynote
 permalink: /keynote/
 nav_order: 3
 ---
-
-{%
+<!--
 <h2 align="center">
   <a href="https://profiles.cardiff.ac.uk/staff/jonescb2">
     Prof. Dr. Christopher Jones
