@@ -12,6 +12,7 @@ nav_order: 7
 * <span style="font-size:20px;"><strong>Tuomo Hiippala</strong>, University of Helsinki, Finland</span>
 * <span style="font-size:20px;"><strong>Yingjie Hu</strong>, University at Buffalo, US</span>
 * <span style="font-size:20px;"><strong>Jochen Leidner</strong>, Coburg University of Applied Sciences / University of Sheffield, Germany/UK</span>
+* <span style="font-size:20px;"><strong>Katherine McDonough</strong>, Carnegie Mellon University, US</span>
 * <span style="font-size:20px;"><strong>Johannes Scholz</strong>, Paris-Lodron-University Salzburg, Austria</span>
 * <span style="font-size:20px;"><strong>May Yuan</strong>, University of Texas at Dallas, US</span>
 * <span style="font-size:20px;"><strong>Lei Zou</strong>, Texas A&M University, US</span>
@@ -26,7 +27,7 @@ nav_order: 7
 * <span style="font-size:20px;"><strong>Christopher Jones</strong>, Cardiff University, UK</span>
 * <span style="font-size:20px;"><strong>Egoitz Laparra</strong>, University of Arizona, US</span>
 * <span style="font-size:20px;"><strong>Bruno Martins</strong>, University of Lisbon, Portugal</span>
-* <span style="font-size:20px;"><strong>Katherine McDonough</strong>, Lancaster University / The Alan Turing Institute, UK</span>
+
 * <span style="font-size:20px;"><strong>Franz-Benjamin Mocnik</strong>, University of Salzburg, Austria </span>
 *  <span style="font-size:20px;"><strong>Hiroki Ouchi</strong>, Nara Institute of Science and Technology, Japan</span> 
 * <span style="font-size:20px;"><strong>Naixia Mou</strong>, Shandong University of Science and Technology
