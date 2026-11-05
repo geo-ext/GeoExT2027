@@ -10,6 +10,7 @@ nav_order: 7
 * <span style="font-size:20px;"><strong>Nan Bai</strong>, TU Delft, The Netherlands</span>
 * <span style="font-size:20px;"><strong>Andrea Ballatore</strong>, King’s College London, UK
 *  <span style="font-size:20px;"><strong>Anahid Basiri</strong>, University of Glasgow, UK</span>
+* <span style="font-size:20px;"><strong>Carmen Brando</strong>, EHESS Paris, France</span>
 * <span style="font-size:20px;"><strong>Tuomo Hiippala</strong>, University of Helsinki, Finland</span>
 * <span style="font-size:20px;"><strong>Yingjie Hu</strong>, University at Buffalo, US</span>
 * <span style="font-size:20px;"><strong>Jochen Leidner</strong>, Coburg University of Applied Sciences / University of Sheffield, Germany/UK</span>
@@ -18,7 +19,12 @@ nav_order: 7
 * <span style="font-size:20px;"><strong>Ross Purves</strong>, University of Zurich, Switzerland </span>
 * <span style="font-size:20px;"><strong>Johannes Scholz</strong>, Paris-Lodron-University Salzburg, Austria</span>
 * <span style="font-size:20px;"><strong>Kai Sun</strong>, Chinese University of Hong Kong, Hongkong</span>
+* <span style="font-size:20px;"><strong>Yeran Sun</strong>, Chinese Academy of Sciences, China</span>
+* <span style="font-size:20px;"><strong>Shu Wang</strong>, Chinese Academy of Sciences, China</span>
+
 * <span style="font-size:20px;"><strong>May Yuan</strong>, University of Texas at Dallas, US</span>
+* <span style="font-size:20px;"><strong>Zhiyong Zhou</strong>, University of Wisconsin-Madison, China</span>
+
 * <span style="font-size:20px;"><strong>Lei Zou</strong>, Texas A&M University, US</span>
 
 
