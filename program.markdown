@@ -23,7 +23,7 @@ nav_order: 7
 * <span style="font-size:20px;"><strong>Shu Wang</strong>, Chinese Academy of Sciences, China</span>
 
 * <span style="font-size:20px;"><strong>May Yuan</strong>, University of Texas at Dallas, US</span>
-* <span style="font-size:20px;"><strong>Zhiyong Zhou</strong>, University of Wisconsin-Madison, China</span>
+* <span style="font-size:20px;"><strong>Zhiyong Zhou</strong>, Zhejiang University, China</span>
 
 * <span style="font-size:20px;"><strong>Lei Zou</strong>, Texas A&M University, US</span>
 
