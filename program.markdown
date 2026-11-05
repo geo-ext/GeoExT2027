@@ -18,7 +18,6 @@ nav_order: 7
 * <span style="font-size:20px;"><strong>Ross Purves</strong>, University of Zurich, Switzerland </span>
 * <span style="font-size:20px;"><strong>Johannes Scholz</strong>, Paris-Lodron-University Salzburg, Austria</span>
 * <span style="font-size:20px;"><strong>Kai Sun</strong>, Chinese University of Hong Kong, Hongkong</span>
-
 * <span style="font-size:20px;"><strong>May Yuan</strong>, University of Texas at Dallas, US</span>
 * <span style="font-size:20px;"><strong>Lei Zou</strong>, Texas A&M University, US</span>
 
