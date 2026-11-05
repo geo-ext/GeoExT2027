@@ -16,16 +16,15 @@ nav_order: 7
 * <span style="font-size:20px;"><strong>Yingjie Hu</strong>, University at Buffalo, US</span>
 * <span style="font-size:20px;"><strong>Jochen Leidner</strong>, Coburg University of Applied Sciences / University of Sheffield, Germany/UK</span>
 * <span style="font-size:20px;"><strong>Katherine McDonough</strong>, Carnegie Mellon University, US</span>
+* <span style="font-size:20px;"><strong>Bogdan Oancea</strong>, The University of Bucharest, Romania</span>
 *  <span style="font-size:20px;"><strong>Hiroki Ouchi</strong>, Nara Institute of Science and Technology, Japan</span>
 * <span style="font-size:20px;"><strong>Ross Purves</strong>, University of Zurich, Switzerland </span>
 * <span style="font-size:20px;"><strong>Johannes Scholz</strong>, Paris-Lodron-University Salzburg, Austria</span>
 * <span style="font-size:20px;"><strong>Kai Sun</strong>, Chinese University of Hong Kong, Hongkong</span>
 * <span style="font-size:20px;"><strong>Yeran Sun</strong>, Chinese Academy of Sciences, China</span>
 * <span style="font-size:20px;"><strong>Shu Wang</strong>, Chinese Academy of Sciences, China</span>
-
 * <span style="font-size:20px;"><strong>May Yuan</strong>, University of Texas at Dallas, US</span>
 * <span style="font-size:20px;"><strong>Zhiyong Zhou</strong>, Zhejiang University, China</span>
-
 * <span style="font-size:20px;"><strong>Lei Zou</strong>, Texas A&M University, US</span>
 
 
