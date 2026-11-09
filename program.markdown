@@ -9,7 +9,6 @@ nav_order: 7
 * <span style="font-size:20px;"><strong>Serafeim Alvanides</strong>, Dortmund University, Germany</span>
 * <span style="font-size:20px;"><strong>Nan Bai</strong>, TU Delft, The Netherlands</span>
 * <span style="font-size:20px;"><strong>Andrea Ballatore</strong>, King’s College London, UK
-* <span style="font-size:20px;"><strong>Andrea Ballatore</strong>, King’s College London, UK
 *  <span style="font-size:20px;"><strong>Anahid Basiri</strong>, University of Glasgow, UK</span>
 * <span style="font-size:20px;"><strong>Carmen Brando</strong>, EHESS Paris, France</span>
 * <span style="font-size:20px;"><strong>Tao Cheng</strong>, UCL, UK</span>
