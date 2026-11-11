@@ -31,15 +31,16 @@ A wealth of unstructured textual content contains geographic information that ca
 The Fifth GeoExT Workshop will provide a forum for discussing methodological advances, application-driven solutions, dataset creation and evaluation, and the integration of text with complementary data sources. By focusing on methods tailored to different application needs and constraints, the workshop aims to strengthen both the methodological foundations and real-world applicability of GeoExT.
 </span>
 
-<span style="font-size:20px;">
+<div style="font-size:20px;">
   <strong>
-    The workshop is supported by the Working Group
-    (<a href="https://www2.isprs.org/commissions/comm4/icwg-4-3/" target="_blank">
-      Global Mapping for SDGs
-    </a>)
-    of ISPRS Technical Commission IV/III.
+    The workshop is supported by:
   </strong>
-</span>
+  <ul>
+    <li>ISPRS ICWG IV/III – Global Geospatial Data and Intelligence for SDGs</li>
+    <li>ISPRS WG IV/3 – Geospatial AI Models and Representation Learning</li>
+    <li>RGS-IBG Geographical Information Science Research Group (GIScRG)</li>
+  </ul>
+</div>
 
 <div style="
   display: flex;
