@@ -13,7 +13,7 @@ nav_order: 1
 
 # Fifth International Workshop on Geographic Information Extraction from Texts (GeoExT)
 
-## will be held at the [49th European Conference on Information Retrieval (ECIR 2027)](https://ecir2027.co.uk/) in Southampton, UK, March 21-25, 2027
+## will be held at the [49th European Conference on Information Retrieval (ECIR 2027)](https://ecir2027.co.uk/) in Southampton, UK
 
 <!--
 <p align="center">
