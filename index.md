@@ -38,7 +38,6 @@ The Fifth GeoExT Workshop will provide a forum for discussing methodological adv
   <ul>
     <li>ISPRS ICWG IV/III – Global Geospatial Data and Intelligence for SDGs</li>
     <li>ISPRS WG IV/3 – Geospatial AI Models and Representation Learning</li>
-    <li>RGS-IBG Geographical Information Science Research Group (GIScRG)</li>
   </ul>
 </div>
 
