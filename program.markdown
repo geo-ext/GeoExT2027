@@ -16,6 +16,7 @@ nav_order: 7
 * <span style="font-size:20px;"><strong>Yingjie Hu</strong>, University at Buffalo, US</span>
 * <span style="font-size:20px;"><strong>Jens Kersten</strong>, German Aerospace Center, Germany</span>
 * <span style="font-size:20px;"><strong>Jochen Leidner</strong>, Coburg University of Applied Sciences / University of Sheffield, Germany/UK</span>
+* <span style="font-size:20px;"><strong>Bruno Martins</strong>, University of Lisbon, Portugal</span>
 * <span style="font-size:20px;"><strong>Katherine McDonough</strong>, Carnegie Mellon University, US</span>
 * <span style="font-size:20px;"><strong>Bogdan Oancea</strong>, The University of Bucharest, Romania</span>
 * <span style="font-size:20px;"><strong>Hiroki Ouchi</strong>, Nara Institute of Science and Technology, Japan</span>
