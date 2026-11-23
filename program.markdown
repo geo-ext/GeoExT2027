@@ -2,11 +2,11 @@
 layout: page
 title: Program Committee
 permalink: /program_committee/
-nav_title: PC
+nav_title: Program Committee
 nav_order: 7
 ---
 
-* <span style="font-size:20px;"><strong>Serafeim Alvanides</strong>, Dortmund University, Germany</span>
+* <span style="font-size:20px;"><strong>Seraphim Alvanides</strong>, TU Dortmund University, Germany</span>
 * <span style="font-size:20px;"><strong>Nan Bai</strong>, TU Delft, The Netherlands</span>
 * <span style="font-size:20px;"><strong>Andrea Ballatore</strong>, King’s College London, UK
 *  <span style="font-size:20px;"><strong>Anahid Basiri</strong>, University of Glasgow, UK</span>
